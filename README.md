@@ -1,10 +1,27 @@
-##
----
-源代码地址：👉
+# vue-music
 
-## 技术栈
+> 基于vue2.0构建一个云音乐播放器
 
-- vue 2.0
-- vue-cli
-- vue-router
-- axios
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
